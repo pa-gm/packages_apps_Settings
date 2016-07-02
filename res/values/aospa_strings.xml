@@ -179,4 +179,7 @@
     <string name="game_space_title">Game Space</string>
     <string name="game_space_summary">Enhance your gaming experience</string>
 
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Play Store</string>
+
 </resources>
