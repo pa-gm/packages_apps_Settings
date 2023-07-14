@@ -563,6 +563,12 @@
         android:title="@string/debug_applications_category"
         android:order="1000">
 
+        <co.aospa.framework.preference.SecureSettingSwitchPreference
+            android:key="allow_signature_fake"
+            android:title="@string/allow_signature_fake"
+            android:summary="@string/allow_signature_fake_summary"
+            android:defaultValue="false" />
+
         <SwitchPreference
             android:key="immediately_destroy_activities"
             android:title="@string/immediately_destroy_activities"
