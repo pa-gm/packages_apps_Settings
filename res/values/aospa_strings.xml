@@ -206,4 +206,8 @@
     <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
     <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
 
+    <!-- Smooth Display -->
+    <string name="smooth_display_intro">Automatically raises the refresh rate from 60 Hz to the selected high refresh rate, for some content. Increases battery usage.</string>
+    <string name="smooth_display_switch">Use Smooth Display</string>
+
 </resources>
