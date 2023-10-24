@@ -234,4 +234,7 @@
     <string name="notification_sound_vib_screen_on_title">Annoying notifications</string>
     <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when the screen is on</string>
 
+    <!-- Separate ringtone/notification volume -->
+    <string name="volume_separate_notification_title">Separate ring and notification volume</string>
+
 </resources>
